@@ -1,2 +1,3 @@
 # google-homepage
-building google's homepage from scratch
+Building Google's homepage from scratch.
+Testing. Testing. Testing.
